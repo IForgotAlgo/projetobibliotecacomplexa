@@ -1,0 +1,7 @@
+# Ignorar arquivos objeto
+*.o
+
+# Ignorar executaveis (Windows e Linux)
+*.exe
+*.out
+main
