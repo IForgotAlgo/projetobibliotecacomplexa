@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#include "../include/bst.h"
 #include "../include/grafo.h"
 #include "../include/fila.h"
 
